@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "name": "Simrandeep Kaur",
+      "email": "simrandeepmann934@gmail.com",
+      "password": "Sim@12",
+      "product": "Mobile",
+      "id": 1
+    },
+    {
+      "name": "Simrandeep Kaur",
+      "email": "simran12@gmail.com",
+      "password": "Neha234",
+      "product": "",
+      "id": 2
+    },
+    {
+      "name": "Simrandeep Kaur",
+      "email": "simrandeep71294@gmail.com",
+      "password": "Neha234",
+      "id": 3
+    },
+    {
+      "name": "Simrandeep Kaur",
+      "email": "simran73@gmail.com",
+      "password": "Sim@2427",
+      "id": 4
+    },
+    {
+      "name": "Ambeshwar Rana",
+      "email": "ambeshwar12@gmail",
+      "password": "ambeshwar",
+      "id": 5
+    },
+    {
+      "name": "Tarun Sharma",
+      "email": "tarun30@gmail.com",
+      "password": "Tarun@30",
+      "id": 6
+    },
+    {
+      "name": "Raveena",
+      "email": "raveena06@gmail.com",
+      "password": "Raceena",
+      "id": 7
+    },
+    {
+      "name": "vipin",
+      "email": "vipin@gmail.com",
+      "password": "admin",
+      "id": 8
+    },
+    {
+      "name": "deepak",
+      "email": "deepak45@gmail.com",
+      "password": "Deepak",
+      "id": 9
+    },
+    {
+      "name": "kamal",
+      "email": "kamal27@gmail.com",
+      "password": "Kamal",
+      "id": 10
+    },
+    {
+      "name": "Harpreet Singh",
+      "email": "harpreet23@gmail.com",
+      "password": "harpreet",
+      "id": 11
+    },
+    {
+      "": "Sarab Kaur",
+      "email": "Sarab34@gmail.com",
+      "password": "sarab",
+      "id": 12
+    },
+    {
+      "": "Ravinder Kaur",
+      "email": "ravi2k64@gmail.com",
+      "password": "ravi",
+      "id": 13
+    },
+    {
+      "name": "ashan",
+      "email": "ashan@gmail.com",
+      "password": "ashan",
+      "id": 14
+    },
+    {
+      "name": "amrit ",
+      "email": "amrit@gmail.com",
+      "password": "amrit",
+      "id": 15
+    },
+    {
+      "name": "avi",
+      "email": "avi@gmail.com",
+      "password": "avi",
+      "id": 16
+    },
+    {
+      "name": "harry",
+      "email": "harry@gmail.com",
+      "password": "harry",
+      "id": 17
+    },
+    {
+      "name": "meeting",
+      "email": "meeting@gmail.com",
+      "password": "meeting",
+      "id": 18
+    },
+    {
+      "name": "preet",
+      "email": "preet@gmail.com",
+      "password": "preet",
+      "id": 19
+    },
+    {
+      "name": "navi",
+      "email": "navi@gmail.com",
+      "password": "navi",
+      "id": 20
+    },
+    {
+      "name": "garry",
+      "email": "garryi@gmail.com",
+      "password": "garry",
+      "id": 21
+    },
+    {
+      "name": "tarun",
+      "email": "tarun@gmail.com",
+      "password": "tarun",
+      "id": 22
+    }
+  ],
+  "tasks": [
+    {
+      "title": "mern",
+      "userId": 20,
+      "modifiedOn": "Fri Jun 23 2023 11:36:59 GMT+0530 (India Standard Time)",
+      "description": "mern full stack",
+      "duedate": "2023-06-23T11:36",
+      "id": 10
+    },
+    {
+      "title": "meeting",
+      "userId": 21,
+      "modifiedOn": "Sat Jun 24 2023 09:27:52 GMT+0530 (India Standard Time)",
+      "description": "meeting at Netmax Technologies.",
+      "duedate": "2023-06-24T09:27",
+      "id": 11
+    },
+    {
+      "title": "Return book to library",
+      "description": "return book to library",
+      "duedate": "2023-06-26T11:50",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 11:50:43 GMT+0530 (India Standard Time)",
+      "id": 18
+    },
+    {
+      "title": "work on react new project",
+      "description": "work on react project",
+      "duedate": "2023-06-26T11:51",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 11:51:41 GMT+0530 (India Standard Time)",
+      "id": 19
+    },
+    {
+      "title": "raveena",
+      "description": "raveena",
+      "duedate": "2023-06-26T11:56",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 11:56:07 GMT+0530 (India Standard Time)",
+      "id": 20
+    },
+    {
+      "title": "Arshdeep",
+      "description": "Kaur",
+      "duedate": "2023-06-26T13:49",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 13:49:38 GMT+0530 (India Standard Time)",
+      "id": 21
+    },
+    {
+      "title": "pay electricity bill",
+      "description": "pay electricity bill",
+      "duedate": "2023-06-26T14:06",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 14:06:34 GMT+0530 (India Standard Time)",
+      "id": 22
+    },
+    {
+      "title": "Return book to library",
+      "description": "return book to library",
+      "duedate": "2023-06-26T14:07",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 14:07:46 GMT+0530 (India Standard Time)",
+      "id": 23
+    },
+    {
+      "title": "Work on react new project",
+      "description": "work on react new project",
+      "duedate": "2023-06-26T14:08",
+      "userId": 1,
+      "modifiedOn": "Mon Jun 26 2023 14:08:30 GMT+0530 (India Standard Time)",
+      "id": 24
+    },
+    {
+      "title": "meeting",
+      "description": "meeting",
+      "duedate": "2023-06-28T09:33",
+      "userId": 1,
+      "modifiedOn": "Wed Jun 28 2023 09:33:14 GMT+0530 (India Standard Time)",
+      "id": 25
+    }
+  ]
+}
